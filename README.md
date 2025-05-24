@@ -11,11 +11,11 @@ Este script permite importar múltiples archivos Parquet organizados en carpetas
 
 1. **Clona el repositorio o descarga los archivos.**
 
-2. **Crea un entorno virtual con `menv` (o `venv`):**
+2. **Crea un entorno virtual con `-m env`:**
 
    ```bash
    python3 -m venv .venv
-   source menv/bin/activate
+   source .venv/bin/activate
    ```
 
 3. **Instala las dependencias:**
