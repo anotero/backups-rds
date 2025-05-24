@@ -34,7 +34,7 @@ El script se ejecuta desde la terminal y requiere dos parámetros:
 ### Ejemplo de ejecución
 
 ```bash
-python paquetToSql.py --name inventario2024 --base-folder data/inventario/inventario2024
+python parquetToSql.py --name inventario2024 --base-folder data/inventario/inventario2024
 ```
 
 Esto creará (si no existe) la base de datos `inventario2024` y cargará todas las tablas encontradas en la carpeta `data/inventario/inventario2024`.
