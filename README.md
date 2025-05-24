@@ -43,7 +43,7 @@ Esto creará (si no existe) la base de datos `inventario2024` y cargará todas l
 
 ```
 data/
-└── inventari/
+└── inventario/
     └── inventario2024/
         ├── inventario_productos/
         │   └── ...archivos.parquet
